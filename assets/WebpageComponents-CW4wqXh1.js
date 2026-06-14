@@ -1,0 +1,1 @@
+import{n as e}from"./index-BU-zn4np.js";var t=e();function n(){return(0,t.jsx)(`div`,{className:`dark:bg-white bg-black w-1/3 h-1 rounded-2xl mt-3 mb-3`})}export{n as t};
