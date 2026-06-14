@@ -1,4 +1,4 @@
-import{n as e,r as t}from"./index-DHuMbJ5x.js";import{t as n}from"./SwirlBackground-XuTp6co4.js";import{t as r}from"./lib-DWzrmMRK.js";var i=`# Prerequisites\r
+import{n as e,r as t}from"./index-D46dHGHv.js";import{t as n}from"./SwirlBackground-Dw5JTYFV.js";import{t as r}from"./lib-CYvqLnwC.js";var i=`# Prerequisites\r
 \r
 This platform presupposes a foundational level of mathematical literacy on the part of the User. Prior to engaging with any material presented herein, Users are strongly advised to possess a confident and working knowledge of the following competencies:\r
 \r
