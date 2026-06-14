@@ -1,0 +1,25 @@
+{
+  "categoryTitle": "Logic & Set Theory",
+  "categorySlug": "logic-set-theory",
+  "categoryDesc": "Logic and set theory form the foundational language of mathematics. Logic studies the principles of valid reasoning and formal proof, while set theory provides the framework for defining mathematical objects and structures. Key results include Gödel's incompleteness theorems, Cantor's theorem on infinite sets, and the axioms of Zermelo-Fraenkel set theory.",
+  "topics": [
+    { "topicTitle": "Propositions & Connectives", "topicSlug": "propositions-connectives" },
+    { "topicTitle": "Truth Tables", "topicSlug": "truth-tables" },
+    { "topicTitle": "Logical Equivalence", "topicSlug": "logical-equivalence" },
+    { "topicTitle": "Quantifiers", "topicSlug": "quantifiers" },
+    { "topicTitle": "Predicates & Predicate Logic", "topicSlug": "predicates-predicate-logic" },
+    { "topicTitle": "Methods of Proof", "topicSlug": "methods-of-proof" },
+    { "topicTitle": "Mathematical Induction", "topicSlug": "mathematical-induction" },
+    { "topicTitle": "Sets & Notation", "topicSlug": "sets-notation" },
+    { "topicTitle": "Set Operations", "topicSlug": "set-operations" },
+    { "topicTitle": "Venn Diagrams", "topicSlug": "venn-diagrams" },
+    { "topicTitle": "Relations", "topicSlug": "relations" },
+    { "topicTitle": "Functions", "topicSlug": "functions" },
+    { "topicTitle": "Cardinality", "topicSlug": "cardinality" },
+    { "topicTitle": "Countability", "topicSlug": "countability" },
+    { "topicTitle": "Cantor's Theorem", "topicSlug": "cantors-theorem" },
+    { "topicTitle": "Zermelo-Fraenkel Axioms", "topicSlug": "zermelo-fraenkel-axioms" },
+    { "topicTitle": "Axiom of Choice", "topicSlug": "axiom-of-choice" },
+    { "topicTitle": "Gödel's Incompleteness Theorems", "topicSlug": "godels-incompleteness-theorems" }
+  ]
+}

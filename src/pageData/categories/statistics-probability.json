@@ -1,0 +1,27 @@
+{
+  "categoryTitle": "Statistics & Probability",
+  "categorySlug": "statistic-probability",
+  "categoryDesc": "Statistics and probability form the mathematical foundation for reasoning under uncertainty. Probability theory studies random events and their likelihoods, while statistics develops tools for collecting, analyzing, and drawing conclusions from data. Key results include Bayes' theorem, the central limit theorem, and the law of large numbers.",
+  "topics": [
+    { "topicTitle": "Basic Probability", "topicSlug": "basic-probability" },
+    { "topicTitle": "Sample Spaces & Events", "topicSlug": "sample-spaces-events" },
+    { "topicTitle": "Conditional Probability", "topicSlug": "conditional-probability" },
+    { "topicTitle": "Bayes' Theorem", "topicSlug": "bayes-theorem" },
+    { "topicTitle": "Independence", "topicSlug": "independence" },
+    { "topicTitle": "Random Variables", "topicSlug": "random-variables" },
+    { "topicTitle": "Discrete Distributions", "topicSlug": "discrete-distributions" },
+    { "topicTitle": "Continuous Distributions", "topicSlug": "continuous-distributions" },
+    { "topicTitle": "Expected Value & Variance", "topicSlug": "expected-value-variance" },
+    { "topicTitle": "Binomial Distribution", "topicSlug": "binomial-distribution" },
+    { "topicTitle": "Poisson Distribution", "topicSlug": "poisson-distribution" },
+    { "topicTitle": "Normal Distribution", "topicSlug": "normal-distribution" },
+    { "topicTitle": "Law of Large Numbers", "topicSlug": "law-of-large-numbers" },
+    { "topicTitle": "Central Limit Theorem", "topicSlug": "central-limit-theorem" },
+    { "topicTitle": "Descriptive Statistics", "topicSlug": "descriptive-statistics" },
+    { "topicTitle": "Hypothesis Testing", "topicSlug": "hypothesis-testing" },
+    { "topicTitle": "Confidence Intervals", "topicSlug": "confidence-intervals" },
+    { "topicTitle": "Regression Analysis", "topicSlug": "regression-analysis" },
+    { "topicTitle": "Correlation", "topicSlug": "correlation" },
+    { "topicTitle": "Markov Chains", "topicSlug": "markov-chains" }
+  ]
+}

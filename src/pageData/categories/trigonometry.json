@@ -1,0 +1,24 @@
+{
+  "categoryTitle": "Trigonometry",
+  "categorySlug": "trigonometry",
+  "categoryDesc": "Trigonometry is the branch of mathematics studying the relationships between angles and sides of triangles, and the properties of trigonometric functions. It bridges geometry and algebra, forming the foundation for calculus, physics, and signal processing. Key results include the law of sines, law of cosines, and the rich set of trigonometric identities.",
+  "topics": [
+    { "topicTitle": "Angles & Measurement", "topicSlug": "angles-measurement" },
+    { "topicTitle": "The Unit Circle", "topicSlug": "unit-circle" },
+    { "topicTitle": "Trig Ratios", "topicSlug": "trig-ratios" },
+    { "topicTitle": "Trig Functions", "topicSlug": "trig-functions" },
+    { "topicTitle": "Inverse Trig Functions", "topicSlug": "inverse-trig-functions" },
+    { "topicTitle": "Graphs of Trig Functions", "topicSlug": "graphs-trig-functions" },
+    { "topicTitle": "Pythagorean Identities", "topicSlug": "pythagorean-identities" },
+    { "topicTitle": "Sum & Difference Identities", "topicSlug": "sum-difference-identities" },
+    { "topicTitle": "Double & Half Angle Identities", "topicSlug": "double-half-angle-identities" },
+    { "topicTitle": "Product-to-Sum Identities", "topicSlug": "product-to-sum-identities" },
+    { "topicTitle": "Law of Sines", "topicSlug": "law-of-sines" },
+    { "topicTitle": "Law of Cosines", "topicSlug": "law-of-cosines" },
+    { "topicTitle": "Law of Tangents", "topicSlug": "law-of-tangents" },
+    { "topicTitle": "Trig Equations", "topicSlug": "trig-equations" },
+    { "topicTitle": "Polar Coordinates", "topicSlug": "polar-coordinates" },
+    { "topicTitle": "Complex Numbers & Euler's Formula", "topicSlug": "complex-numbers-eulers-formula" },
+    { "topicTitle": "Hyperbolic Functions", "topicSlug": "hyperbolic-functions" }
+  ]
+}

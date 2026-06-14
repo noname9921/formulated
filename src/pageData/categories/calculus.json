@@ -1,0 +1,32 @@
+{
+  "categoryTitle": "Calculus",
+  "categorySlug": "calculus",
+  "categoryDesc": "Calculus is the branch of mathematics studying continuous change, built on the twin pillars of differentiation and integration. It provides the mathematical foundation for physics, engineering, economics, and most of modern science. Key results include the Fundamental Theorem of Calculus, which unifies derivatives and integrals, along with powerful tools like Taylor series, multivariable calculus, and vector calculus.",
+  "topics": [
+    { "topicTitle": "Limits", "topicSlug": "limits" },
+    { "topicTitle": "Continuity", "topicSlug": "continuity" },
+    { "topicTitle": "The Derivative", "topicSlug": "the-derivative" },
+    { "topicTitle": "Differentiation Rules", "topicSlug": "differentiation-rules" },
+    { "topicTitle": "Chain Rule", "topicSlug": "chain-rule" },
+    { "topicTitle": "Implicit Differentiation", "topicSlug": "implicit-differentiation" },
+    { "topicTitle": "Related Rates", "topicSlug": "related-rates" },
+    { "topicTitle": "Linear Approximation", "topicSlug": "linear-approximation" },
+    { "topicTitle": "Mean Value Theorem", "topicSlug": "mean-value-theorem" },
+    { "topicTitle": "Curve Sketching", "topicSlug": "curve-sketching" },
+    { "topicTitle": "Optimization", "topicSlug": "optimization" },
+    { "topicTitle": "The Integral", "topicSlug": "the-integral" },
+    { "topicTitle": "Integration Rules", "topicSlug": "integration-rules" },
+    { "topicTitle": "Fundamental Theorem of Calculus", "topicSlug": "fundamental-theorem-calculus" },
+    { "topicTitle": "U-Substitution", "topicSlug": "u-substitution" },
+    { "topicTitle": "Integration by Parts", "topicSlug": "integration-by-parts" },
+    { "topicTitle": "Partial Fractions", "topicSlug": "partial-fractions" },
+    { "topicTitle": "Improper Integrals", "topicSlug": "improper-integrals" },
+    { "topicTitle": "Sequences & Series", "topicSlug": "sequences-series" },
+    { "topicTitle": "Taylor & Maclaurin Series", "topicSlug": "taylor-maclaurin-series" },
+    { "topicTitle": "Multivariable Calculus", "topicSlug": "multivariable-calculus" },
+    { "topicTitle": "Partial Derivatives", "topicSlug": "partial-derivatives" },
+    { "topicTitle": "Multiple Integrals", "topicSlug": "multiple-integrals" },
+    { "topicTitle": "Vector Calculus", "topicSlug": "vector-calculus" },
+    { "topicTitle": "Green's & Stokes' Theorem", "topicSlug": "greens-stokes-theorem" }
+  ]
+}

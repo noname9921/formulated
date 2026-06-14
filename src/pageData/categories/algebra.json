@@ -1,0 +1,29 @@
+{
+  "categoryTitle": "Algebra",
+  "categorySlug": "algebra",
+  "categoryDesc": "Algebra is a primary branch of mathematics concerned with the study of mathematical symbols and the rules for manipulating these symbols. It abstracts arithmetic by using variables—typically letters—to represent generalized numbers, thereby enabling the formulation and analysis of universal mathematical relationships, structures, and equations.",
+  "topics": [
+    { "topicTitle": "Equations", "topicSlug": "equations"},
+    { "topicTitle": "Inequalities", "topicSlug": "inequalities" },
+    { "topicTitle": "Exponents & Radicals", "topicSlug": "exponents-and-radicals" },
+    { "topicTitle": "Polynomials", "topicSlug": "polynomials" },
+    { "topicTitle": "Factoring", "topicSlug": "factoring" },
+    { "topicTitle": "Rational Expressions", "topicSlug": "rational-expressions" },
+    { "topicTitle": "Systems of Equations", "topicSlug": "systems-of-equations" },
+    { "topicTitle": "Functions & Relations", "topicSlug": "functions-and-relations" },
+    { "topicTitle": "Linear Functions", "topicSlug": "linear-functions" },
+    { "topicTitle": "Quadratic Functions", "topicSlug": "quadratic-functions" },
+    { "topicTitle": "Polynomial Functions", "topicSlug": "polynomial-functions" },
+    { "topicTitle": "Rational Functions", "topicSlug": "rational-functions" },
+    { "topicTitle": "Exponential & Logarithmic Functions", "topicSlug": "exponential-and-logarithmic-functions" },
+    { "topicTitle": "Complex Numbers", "topicSlug": "complex-numbers" },
+    { "topicTitle": "Sequences & Series", "topicSlug": "sequences-and-series" },
+    { "topicTitle": "Binomial Theorem", "topicSlug": "binomial-theorem" },
+    { "topicTitle": "Matrices & Determinants", "topicSlug": "matrices-and-determinants" },
+    { "topicTitle": "Vectors & Vector Spaces", "topicSlug": "vectors-and-vector-spaces" },
+    { "topicTitle": "Linear Transformations", "topicSlug": "linear-transformations" },
+    { "topicTitle": "Eigenvalues & Eigenvectors", "topicSlug": "eigenvalues-and-eigenvectors" },
+    { "topicTitle": "Ring & Field Theory", "topicSlug": "ring-and-field-theory" },
+    { "topicTitle": "Group Theory", "topicSlug": "group-theory" }
+  ]
+}

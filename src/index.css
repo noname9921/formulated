@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: 'Poppins', sans-serif;
+}
+
+.bg-swirl {
+  background:
+    radial-gradient(ellipse at 20% 50%, #0e4d5c 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 20%, #0a3040 0%, transparent 50%),
+    #000000;
+}
+
+* {
+  scrollbar-width: none;
+}
+
+.prose {
+  --tw-prose-body: #000;
+}
+
+.dark .prose {
+  --tw-prose-body: #fff;
+}
+
